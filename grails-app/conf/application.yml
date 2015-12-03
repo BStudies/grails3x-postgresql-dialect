@@ -81,6 +81,7 @@ dataSource:
     pooled: true
     jmxExport: true
     driverClassName: org.postgresql.Driver
+    dialect: hibernate.MyPostgreSQLDialect
     username: postgres
     password:
 
