@@ -1,4 +1,5 @@
 package grails3x.postgresql.dialect
+
 import grails.test.mixin.integration.Integration
 import grails.transaction.Transactional
 import spock.lang.Specification
